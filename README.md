@@ -4,7 +4,7 @@ Ett interaktivt portfolio-projekt som visar hur jag tänker kring systematisk fe
 
 ## Live Demo
 
-[**→ Öppna den interaktiva hemsidan**](https://aleks5246.github.io/Felsok-ett-natverk/)
+[**→ Öppna den interaktiva hemsidan**](https://aleks5246.github.io/Fels-k-ett-n-tverks-portfolio/)
 
 ## Vad projektet visar
 
